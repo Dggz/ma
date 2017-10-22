@@ -1,1 +1,3 @@
-# ma
+# ForgetMeNot
+
+A simple reminder app
